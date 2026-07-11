@@ -47,4 +47,6 @@ python app.py `
 
 The app prints an ASCII timeline of when each thread's query returned, a
 per-thread results table, per-stage timings, and asserts that a **single**
-high-concurrency Spark session served every query.
+high-concurrency Spark session served every query:
+
+![Concurrent](.imgs/concurrent.png)
