@@ -1,4 +1,4 @@
-# Livy Hihh Concurrency
+# Livy High Concurrency
 
 Creates a HC session with Livy and sees what happens
 
